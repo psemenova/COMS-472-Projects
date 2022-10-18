@@ -1,0 +1,598 @@
+File: Part3/L8/152.txt - Algorithm: BFS Total nodes generated: 267 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/152.txt - Algorithm: IDS Total nodes generated: 6833 Total time taken: 0 sec 14
+-----------
+File: Part3/L8/152.txt - Algorithm: h1 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/152.txt - Algorithm: h2 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/152.txt - Algorithm: h3 Total nodes generated: 19 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/154.txt - Algorithm: BFS Total nodes generated: 267 Total time taken: 0 sec 4
+-----------
+File: Part3/L8/154.txt - Algorithm: IDS Total nodes generated: 6833 Total time taken: 0 sec 20
+-----------
+File: Part3/L8/154.txt - Algorithm: h1 Total nodes generated: 31 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/154.txt - Algorithm: h2 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/154.txt - Algorithm: h3 Total nodes generated: 34 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/158.txt - Algorithm: BFS Total nodes generated: 310 Total time taken: 0 sec 4
+-----------
+File: Part3/L8/158.txt - Algorithm: IDS Total nodes generated: 12403 Total time taken: 0 sec 28
+-----------
+File: Part3/L8/158.txt - Algorithm: h1 Total nodes generated: 31 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/158.txt - Algorithm: h2 Total nodes generated: 24 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/158.txt - Algorithm: h3 Total nodes generated: 34 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/160.txt - Algorithm: BFS Total nodes generated: 158 Total time taken: 0 sec 1
+-----------
+File: Part3/L8/160.txt - Algorithm: IDS Total nodes generated: 3470 Total time taken: 0 sec 7
+-----------
+File: Part3/L8/160.txt - Algorithm: h1 Total nodes generated: 27 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/160.txt - Algorithm: h2 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/160.txt - Algorithm: h3 Total nodes generated: 28 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/164.txt - Algorithm: BFS Total nodes generated: 164 Total time taken: 0 sec 1
+-----------
+File: Part3/L8/164.txt - Algorithm: IDS Total nodes generated: 2958 Total time taken: 0 sec 6
+-----------
+File: Part3/L8/164.txt - Algorithm: h1 Total nodes generated: 14 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/164.txt - Algorithm: h2 Total nodes generated: 14 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/164.txt - Algorithm: h3 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/193.txt - Algorithm: BFS Total nodes generated: 302 Total time taken: 0 sec 4
+-----------
+File: Part3/L8/193.txt - Algorithm: IDS Total nodes generated: 10803 Total time taken: 0 sec 23
+-----------
+File: Part3/L8/193.txt - Algorithm: h1 Total nodes generated: 34 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/193.txt - Algorithm: h2 Total nodes generated: 18 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/193.txt - Algorithm: h3 Total nodes generated: 40 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/195.txt - Algorithm: BFS Total nodes generated: 196 Total time taken: 0 sec 2
+-----------
+File: Part3/L8/195.txt - Algorithm: IDS Total nodes generated: 4210 Total time taken: 0 sec 8
+-----------
+File: Part3/L8/195.txt - Algorithm: h1 Total nodes generated: 27 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/195.txt - Algorithm: h2 Total nodes generated: 18 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/195.txt - Algorithm: h3 Total nodes generated: 31 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/198.txt - Algorithm: BFS Total nodes generated: 225 Total time taken: 0 sec 2
+-----------
+File: Part3/L8/198.txt - Algorithm: IDS Total nodes generated: 5380 Total time taken: 0 sec 11
+-----------
+File: Part3/L8/198.txt - Algorithm: h1 Total nodes generated: 33 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/198.txt - Algorithm: h2 Total nodes generated: 18 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/198.txt - Algorithm: h3 Total nodes generated: 37 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/208.txt - Algorithm: BFS Total nodes generated: 238 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/208.txt - Algorithm: IDS Total nodes generated: 5764 Total time taken: 0 sec 12
+-----------
+File: Part3/L8/208.txt - Algorithm: h1 Total nodes generated: 22 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/208.txt - Algorithm: h2 Total nodes generated: 18 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/208.txt - Algorithm: h3 Total nodes generated: 22 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/210.txt - Algorithm: BFS Total nodes generated: 242 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/210.txt - Algorithm: IDS Total nodes generated: 5764 Total time taken: 0 sec 11
+-----------
+File: Part3/L8/210.txt - Algorithm: h1 Total nodes generated: 37 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/210.txt - Algorithm: h2 Total nodes generated: 27 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/210.txt - Algorithm: h3 Total nodes generated: 42 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/224.txt - Algorithm: BFS Total nodes generated: 192 Total time taken: 0 sec 2
+-----------
+File: Part3/L8/224.txt - Algorithm: IDS Total nodes generated: 4144 Total time taken: 0 sec 8
+-----------
+File: Part3/L8/224.txt - Algorithm: h1 Total nodes generated: 35 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/224.txt - Algorithm: h2 Total nodes generated: 21 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/224.txt - Algorithm: h3 Total nodes generated: 31 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/225.txt - Algorithm: BFS Total nodes generated: 192 Total time taken: 0 sec 2
+-----------
+File: Part3/L8/225.txt - Algorithm: IDS Total nodes generated: 4144 Total time taken: 0 sec 8
+-----------
+File: Part3/L8/225.txt - Algorithm: h1 Total nodes generated: 45 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/225.txt - Algorithm: h2 Total nodes generated: 31 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/225.txt - Algorithm: h3 Total nodes generated: 45 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/234.txt - Algorithm: BFS Total nodes generated: 203 Total time taken: 0 sec 2
+-----------
+File: Part3/L8/234.txt - Algorithm: IDS Total nodes generated: 4601 Total time taken: 0 sec 9
+-----------
+File: Part3/L8/234.txt - Algorithm: h1 Total nodes generated: 23 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/234.txt - Algorithm: h2 Total nodes generated: 18 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/234.txt - Algorithm: h3 Total nodes generated: 37 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/236.txt - Algorithm: BFS Total nodes generated: 241 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/236.txt - Algorithm: IDS Total nodes generated: 5771 Total time taken: 0 sec 12
+-----------
+File: Part3/L8/236.txt - Algorithm: h1 Total nodes generated: 25 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/236.txt - Algorithm: h2 Total nodes generated: 18 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/236.txt - Algorithm: h3 Total nodes generated: 27 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/238.txt - Algorithm: BFS Total nodes generated: 245 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/238.txt - Algorithm: IDS Total nodes generated: 5771 Total time taken: 0 sec 12
+-----------
+File: Part3/L8/238.txt - Algorithm: h1 Total nodes generated: 31 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/238.txt - Algorithm: h2 Total nodes generated: 18 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/238.txt - Algorithm: h3 Total nodes generated: 35 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/239.txt - Algorithm: BFS Total nodes generated: 255 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/239.txt - Algorithm: IDS Total nodes generated: 6649 Total time taken: 0 sec 14
+-----------
+File: Part3/L8/239.txt - Algorithm: h1 Total nodes generated: 23 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/239.txt - Algorithm: h2 Total nodes generated: 21 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/239.txt - Algorithm: h3 Total nodes generated: 25 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/250.txt - Algorithm: BFS Total nodes generated: 204 Total time taken: 0 sec 2
+-----------
+File: Part3/L8/250.txt - Algorithm: IDS Total nodes generated: 4323 Total time taken: 0 sec 9
+-----------
+File: Part3/L8/250.txt - Algorithm: h1 Total nodes generated: 20 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/250.txt - Algorithm: h2 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/250.txt - Algorithm: h3 Total nodes generated: 20 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/253.txt - Algorithm: BFS Total nodes generated: 233 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/253.txt - Algorithm: IDS Total nodes generated: 5493 Total time taken: 0 sec 12
+-----------
+File: Part3/L8/253.txt - Algorithm: h1 Total nodes generated: 32 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/253.txt - Algorithm: h2 Total nodes generated: 19 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/253.txt - Algorithm: h3 Total nodes generated: 28 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/256.txt - Algorithm: BFS Total nodes generated: 256 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/256.txt - Algorithm: IDS Total nodes generated: 6078 Total time taken: 0 sec 12
+-----------
+File: Part3/L8/256.txt - Algorithm: h1 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/256.txt - Algorithm: h2 Total nodes generated: 14 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/256.txt - Algorithm: h3 Total nodes generated: 16 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/258.txt - Algorithm: BFS Total nodes generated: 258 Total time taken: 0 sec 3
+-----------
+File: Part3/L8/258.txt - Algorithm: IDS Total nodes generated: 6188 Total time taken: 0 sec 13
+-----------
+File: Part3/L8/258.txt - Algorithm: h1 Total nodes generated: 27 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/258.txt - Algorithm: h2 Total nodes generated: 19 Total time taken: 0 sec 0
+-----------
+File: Part3/L8/258.txt - Algorithm: h3 Total nodes generated: 36 Total time taken: 0 sec 0
+-----------
+
+--------- L15 ---------
+
+-----------
+File: Part3/L15/4767.txt - Algorithm: BFS Total nodes generated: 6047 Total time taken: 1 sec 247
+-----------
+File: Part3/L15/4767.txt - Algorithm: IDS Total nodes generated: 7349696 Total time taken: 15 sec 226
+-----------
+File: Part3/L15/4767.txt - Algorithm: h1 Total nodes generated: 384 Total time taken: 0 sec 14
+-----------
+File: Part3/L15/4767.txt - Algorithm: h2 Total nodes generated: 33 Total time taken: 0 sec 0
+-----------
+File: Part3/L15/4767.txt - Algorithm: h3 Total nodes generated: 592 Total time taken: 0 sec 32
+-----------
+File: Part3/L15/4768.txt - Algorithm: BFS Total nodes generated: 7465 Total time taken: 1 sec 877
+-----------
+File: Part3/L15/4768.txt - Algorithm: IDS Total nodes generated: 10944814 Total time taken: 23 sec 109
+-----------
+File: Part3/L15/4768.txt - Algorithm: h1 Total nodes generated: 428 Total time taken: 0 sec 16
+-----------
+File: Part3/L15/4768.txt - Algorithm: h2 Total nodes generated: 107 Total time taken: 0 sec 2
+-----------
+File: Part3/L15/4768.txt - Algorithm: h3 Total nodes generated: 573 Total time taken: 0 sec 30
+-----------
+File: Part3/L15/4771.txt - Algorithm: BFS Total nodes generated: 6923 Total time taken: 1 sec 581
+-----------
+File: Part3/L15/4771.txt - Algorithm: IDS Total nodes generated: 9746441 Total time taken: 20 sec 422
+-----------
+File: Part3/L15/4771.txt - Algorithm: h1 Total nodes generated: 369 Total time taken: 0 sec 12
+-----------
+File: Part3/L15/4771.txt - Algorithm: h2 Total nodes generated: 52 Total time taken: 0 sec 0
+-----------
+File: Part3/L15/4771.txt - Algorithm: h3 Total nodes generated: 546 Total time taken: 0 sec 28
+-----------
+File: Part3/L15/4773.txt - Algorithm: BFS Total nodes generated: 7904 Total time taken: 2 sec 190
+-----------
+File: Part3/L15/4773.txt - Algorithm: IDS Total nodes generated: 12143186 Total time taken: 25 sec 72
+-----------
+File: Part3/L15/4773.txt - Algorithm: h1 Total nodes generated: 370 Total time taken: 0 sec 12
+-----------
+File: Part3/L15/4773.txt - Algorithm: h2 Total nodes generated: 39 Total time taken: 0 sec 0
+-----------
+File: Part3/L15/4773.txt - Algorithm: h3 Total nodes generated: 524 Total time taken: 0 sec 24
+-----------
+File: Part3/L15/4775.txt - Algorithm: BFS Total nodes generated: 7007 Total time taken: 1 sec 725
+-----------
+File: Part3/L15/4775.txt - Algorithm: IDS Total nodes generated: 10120933 Total time taken: 21 sec 360
+-----------
+File: Part3/L15/4775.txt - Algorithm: h1 Total nodes generated: 447 Total time taken: 0 sec 17
+-----------
+File: Part3/L15/4775.txt - Algorithm: h2 Total nodes generated: 73 Total time taken: 0 sec 1
+-----------
+File: Part3/L15/4775.txt - Algorithm: h3 Total nodes generated: 632 Total time taken: 0 sec 34
+-----------
+File: Part3/L15/4778.txt - Algorithm: BFS Total nodes generated: 6458 Total time taken: 1 sec 406
+-----------
+File: Part3/L15/4778.txt - Algorithm: IDS Total nodes generated: 8922560 Total time taken: 18 sec 526
+-----------
+File: Part3/L15/4778.txt - Algorithm: h1 Total nodes generated: 438 Total time taken: 0 sec 17
+-----------
+File: Part3/L15/4778.txt - Algorithm: h2 Total nodes generated: 88 Total time taken: 0 sec 1
+-----------
+File: Part3/L15/4778.txt - Algorithm: h3 Total nodes generated: 596 Total time taken: 0 sec 32
+-----------
+File: Part3/L15/4780.txt - Algorithm: BFS Total nodes generated: 8306 Total time taken: 2 sec 403
+-----------
+File: Part3/L15/4780.txt - Algorithm: IDS Total nodes generated: 12817271 Total time taken: 27 sec 331
+-----------
+File: Part3/L15/4780.txt - Algorithm: h1 Total nodes generated: 436 Total time taken: 0 sec 16
+-----------
+File: Part3/L15/4780.txt - Algorithm: h2 Total nodes generated: 88 Total time taken: 0 sec 1
+-----------
+File: Part3/L15/4780.txt - Algorithm: h3 Total nodes generated: 645 Total time taken: 0 sec 35
+-----------
+File: Part3/L15/4784.txt - Algorithm: BFS Total nodes generated: 5686 Total time taken: 1 sec 100
+-----------
+File: Part3/L15/4784.txt - Algorithm: IDS Total nodes generated: 6841793 Total time taken: 14 sec 504
+-----------
+File: Part3/L15/4784.txt - Algorithm: h1 Total nodes generated: 406 Total time taken: 0 sec 14
+-----------
+File: Part3/L15/4784.txt - Algorithm: h2 Total nodes generated: 68 Total time taken: 0 sec 1
+-----------
+File: Part3/L15/4784.txt - Algorithm: h3 Total nodes generated: 552 Total time taken: 0 sec 26
+-----------
+File: Part3/L15/4789.txt - Algorithm: BFS Total nodes generated: 6842 Total time taken: 1 sec 558
+-----------
+File: Part3/L15/4789.txt - Algorithm: IDS Total nodes generated: 9259602 Total time taken: 19 sec 751
+-----------
+File: Part3/L15/4789.txt - Algorithm: h1 Total nodes generated: 479 Total time taken: 0 sec 19
+-----------
+File: Part3/L15/4789.txt - Algorithm: h2 Total nodes generated: 211 Total time taken: 0 sec 5
+-----------
+File: Part3/L15/4789.txt - Algorithm: h3 Total nodes generated: 695 Total time taken: 0 sec 41
+-----------
+File: Part3/L15/4793.txt - Algorithm: BFS Total nodes generated: 8153 Total time taken: 2 sec 252
+-----------
+File: Part3/L15/4793.txt - Algorithm: IDS Total nodes generated: 13154313 Total time taken: 27 sec 878
+-----------
+File: Part3/L15/4793.txt - Algorithm: h1 Total nodes generated: 460 Total time taken: 0 sec 18
+-----------
+File: Part3/L15/4793.txt - Algorithm: h2 Total nodes generated: 150 Total time taken: 0 sec 3
+-----------
+File: Part3/L15/4793.txt - Algorithm: h3 Total nodes generated: 668 Total time taken: 0 sec 40
+-----------
+File: Part3/L15/4798.txt - Algorithm: BFS Total nodes generated: 6529 Total time taken: 1 sec 480
+-----------
+File: Part3/L15/4798.txt - Algorithm: IDS Total nodes generated: 8962945 Total time taken: 18 sec 865
+-----------
+File: Part3/L15/4798.txt - Algorithm: h1 Total nodes generated: 510 Total time taken: 0 sec 22
+-----------
+File: Part3/L15/4798.txt - Algorithm: h2 Total nodes generated: 165 Total time taken: 0 sec 4
+-----------
+File: Part3/L15/4798.txt - Algorithm: h3 Total nodes generated: 715 Total time taken: 0 sec 41
+-----------
+File: Part3/L15/4800.txt - Algorithm: BFS Total nodes generated: 7915 Total time taken: 2 sec 143
+-----------
+File: Part3/L15/4800.txt - Algorithm: IDS Total nodes generated: 12558063 Total time taken: 26 sec 439
+-----------
+File: Part3/L15/4800.txt - Algorithm: h1 Total nodes generated: 459 Total time taken: 0 sec 23
+-----------
+File: Part3/L15/4800.txt - Algorithm: h2 Total nodes generated: 73 Total time taken: 0 sec 1
+-----------
+File: Part3/L15/4800.txt - Algorithm: h3 Total nodes generated: 660 Total time taken: 0 sec 323
+-----------
+File: Part3/L15/5108.txt - Algorithm: BFS Total nodes generated: 6342 Total time taken: 3 sec 198
+-----------
+File: Part3/L15/5108.txt - Algorithm: IDS Total nodes generated: 9056778 Total time taken: 22 sec 196
+-----------
+File: Part3/L15/5108.txt - Algorithm: h1 Total nodes generated: 590 Total time taken: 0 sec 30
+-----------
+File: Part3/L15/5108.txt - Algorithm: h2 Total nodes generated: 197 Total time taken: 0 sec 5
+-----------
+File: Part3/L15/5108.txt - Algorithm: h3 Total nodes generated: 873 Total time taken: 0 sec 64
+-----------
+File: Part3/L15/5109.txt - Algorithm: BFS Total nodes generated: 6535 Total time taken: 1 sec 491
+-----------
+File: Part3/L15/5109.txt - Algorithm: IDS Total nodes generated: 9203369 Total time taken: 21 sec 607
+-----------
+File: Part3/L15/5109.txt - Algorithm: h1 Total nodes generated: 644 Total time taken: 0 sec 34
+-----------
+File: Part3/L15/5109.txt - Algorithm: h2 Total nodes generated: 258 Total time taken: 0 sec 8
+-----------
+File: Part3/L15/5109.txt - Algorithm: h3 Total nodes generated: 833 Total time taken: 0 sec 58
+-----------
+File: Part3/L15/5115.txt - Algorithm: BFS Total nodes generated: 5486 Total time taken: 1 sec 73
+-----------
+File: Part3/L15/5115.txt - Algorithm: IDS Total nodes generated: 6697482 Total time taken: 14 sec 935
+-----------
+File: Part3/L15/5115.txt - Algorithm: h1 Total nodes generated: 417 Total time taken: 0 sec 15
+-----------
+File: Part3/L15/5115.txt - Algorithm: h2 Total nodes generated: 63 Total time taken: 0 sec 1
+-----------
+File: Part3/L15/5115.txt - Algorithm: h3 Total nodes generated: 570 Total time taken: 0 sec 29
+-----------
+File: Part3/L15/5120.txt - Algorithm: BFS Total nodes generated: 7026 Total time taken: 2 sec 447
+-----------
+File: Part3/L15/5120.txt - Algorithm: IDS Total nodes generated: 10592193 Total time taken: 25 sec 590
+-----------
+File: Part3/L15/5120.txt - Algorithm: h1 Total nodes generated: 348 Total time taken: 0 sec 11
+-----------
+File: Part3/L15/5120.txt - Algorithm: h2 Total nodes generated: 39 Total time taken: 0 sec 0
+-----------
+File: Part3/L15/5120.txt - Algorithm: h3 Total nodes generated: 495 Total time taken: 0 sec 22
+-----------
+File: Part3/L15/5123.txt - Algorithm: BFS Total nodes generated: 7639 Total time taken: 2 sec 59
+-----------
+File: Part3/L15/5123.txt - Algorithm: IDS Total nodes generated: 11041581 Total time taken: 23 sec 605
+-----------
+File: Part3/L15/5123.txt - Algorithm: h1 Total nodes generated: 512 Total time taken: 0 sec 22
+-----------
+File: Part3/L15/5123.txt - Algorithm: h2 Total nodes generated: 136 Total time taken: 0 sec 3
+-----------
+File: Part3/L15/5123.txt - Algorithm: h3 Total nodes generated: 657 Total time taken: 0 sec 37
+-----------
+File: Part3/L15/5126.txt - Algorithm: BFS Total nodes generated: 6621 Total time taken: 1 sec 511
+-----------
+File: Part3/L15/5126.txt - Algorithm: IDS Total nodes generated: 9244023 Total time taken: 20 sec 288
+-----------
+File: Part3/L15/5126.txt - Algorithm: h1 Total nodes generated: 442 Total time taken: 0 sec 17
+-----------
+File: Part3/L15/5126.txt - Algorithm: h2 Total nodes generated: 85 Total time taken: 0 sec 1
+-----------
+File: Part3/L15/5126.txt - Algorithm: h3 Total nodes generated: 657 Total time taken: 0 sec 38
+-----------
+File: Part3/L15/5127.txt - Algorithm: BFS Total nodes generated: 5846 Total time taken: 1 sec 156
+-----------
+File: Part3/L15/5127.txt - Algorithm: IDS Total nodes generated: 7296668 Total time taken: 15 sec 308
+-----------
+File: Part3/L15/5127.txt - Algorithm: h1 Total nodes generated: 693 Total time taken: 0 sec 39
+-----------
+File: Part3/L15/5127.txt - Algorithm: h2 Total nodes generated: 318 Total time taken: 0 sec 10
+-----------
+File: Part3/L15/5127.txt - Algorithm: h3 Total nodes generated: 921 Total time taken: 0 sec 69
+-----------
+File: Part3/L15/5130.txt - Algorithm: BFS Total nodes generated: 5544 Total time taken: 1 sec 45
+-----------
+File: Part3/L15/5130.txt - Algorithm: IDS Total nodes generated: 6098296 Total time taken: 12 sec 823
+-----------
+File: Part3/L15/5130.txt - Algorithm: h1 Total nodes generated: 589 Total time taken: 0 sec 27
+-----------
+File: Part3/L15/5130.txt - Algorithm: h2 Total nodes generated: 174 Total time taken: 0 sec 4
+-----------
+File: Part3/L15/5130.txt - Algorithm: h3 Total nodes generated: 782 Total time taken: 0 sec 51
+-----------
+
+
+--------- L24 ---------
+
+File: Part3/L24/131248.txt - Algorithm: BFS Total nodes generated: 135213 Total time taken: 479 sec 524
+-----------
+File: Part3/L24/131248.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131248.txt - Algorithm: h1 Total nodes generated: 19931 Total time taken: 28 sec 400
+-----------
+File: Part3/L24/131248.txt - Algorithm: h2 Total nodes generated: 1680 Total time taken: 0 sec 212
+-----------
+File: Part3/L24/131248.txt - Algorithm: h3 Total nodes generated: 28184 Total time taken: 62 sec 77
+-----------
+File: Part3/L24/131256.txt - Algorithm: BFS Total nodes generated: 116443 Total time taken: 384 sec 113
+-----------
+File: Part3/L24/131256.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131256.txt - Algorithm: h1 Total nodes generated: 19143 Total time taken: 25 sec 974
+-----------
+File: Part3/L24/131256.txt - Algorithm: h2 Total nodes generated: 755 Total time taken: 0 sec 47
+-----------z
+File: Part3/L24/131256.txt - Algorithm: h3 Total nodes generated: 27632 Total time taken: 59 sec 475
+-----------
+File: Part3/L24/131264.txt - Algorithm: BFS Total nodes generated: 138165 Total time taken: 503 sec 303
+-----------
+File: Part3/L24/131264.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131264.txt - Algorithm: h1 Total nodes generated: 18542 Total time taken: 25 sec 245
+-----------
+File: Part3/L24/131264.txt - Algorithm: h2 Total nodes generated: 636 Total time taken: 0 sec 38
+-----------
+File: Part3/L24/131264.txt - Algorithm: h3 Total nodes generated: 26573 Total time taken: 55 sec 832
+-----------
+File: Part3/L24/131274.txt - Algorithm: BFS Total nodes generated: 138602 Total time taken: 479 sec 868
+-----------
+File: Part3/L24/131274.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131274.txt - Algorithm: h1 Total nodes generated: 18207 Total time taken: 24 sec 393
+-----------
+File: Part3/L24/131274.txt - Algorithm: h2 Total nodes generated: 589 Total time taken: 0 sec 32
+-----------
+File: Part3/L24/131274.txt - Algorithm: h3 Total nodes generated: 26459 Total time taken: 56 sec 821
+-----------
+File: Part3/L24/131279.txt - Algorithm: BFS Total nodes generated: 135800 Total time taken: 560 sec 891
+-----------
+File: Part3/L24/131279.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131279.txt - Algorithm: h1 Total nodes generated: 19701 Total time taken: 26 sec 100
+-----------
+File: Part3/L24/131279.txt - Algorithm: h2 Total nodes generated: 1842 Total time taken: 0 sec 287
+-----------
+File: Part3/L24/131279.txt - Algorithm: h3 Total nodes generated: 27707 Total time taken: 54 sec 408
+-----------
+File: Part3/L24/131286.txt - Algorithm: BFS Total nodes generated: 117666 Total time taken: 414 sec 747
+-----------
+File: Part3/L24/131286.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131286.txt - Algorithm: h1 Total nodes generated: 19685 Total time taken: 26 sec 590
+-----------
+File: Part3/L24/131286.txt - Algorithm: h2 Total nodes generated: 970 Total time taken: 0 sec 77
+-----------
+File: Part3/L24/131286.txt - Algorithm: h3 Total nodes generated: 27878 Total time taken: 54 sec 10
+-----------
+File: Part3/L24/131304.txt - Algorithm: BFS Total nodes generated: 130428 Total time taken: 434 sec 369
+-----------
+File: Part3/L24/131304.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131304.txt - Algorithm: h1 Total nodes generated: 20543 Total time taken: 28 sec 510
+-----------
+File: Part3/L24/131304.txt - Algorithm: h2 Total nodes generated: 2313 Total time taken: 0 sec 376
+-----------
+File: Part3/L24/131304.txt - Algorithm: h3 Total nodes generated: 28144 Total time taken: 57 sec 687
+-----------
+File: Part3/L24/131311.txt - Algorithm: BFS Total nodes generated: 137637 Total time taken: 466 sec 706
+-----------
+File: Part3/L24/131311.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131311.txt - Algorithm: h1 Total nodes generated: 23487 Total time taken: 36 sec 272
+-----------
+File: Part3/L24/131311.txt - Algorithm: h2 Total nodes generated: 1176 Total time taken: 0 sec 106
+-----------
+File: Part3/L24/131311.txt - Algorithm: h3 Total nodes generated: 32555 Total time taken: 75 sec 223
+-----------
+File: Part3/L24/131324.txt - Algorithm: BFS Total nodes generated: 128649 Total time taken: 445 sec 171
+-----------
+File: Part3/L24/131324.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131324.txt - Algorithm: h1 Total nodes generated: 18308 Total time taken: 22 sec 401
+-----------
+File: Part3/L24/131324.txt - Algorithm: h2 Total nodes generated: 877 Total time taken: 0 sec 64
+-----------
+File: Part3/L24/131324.txt - Algorithm: h3 Total nodes generated: 26607 Total time taken: 51 sec 580
+-----------
+File: Part3/L24/131345.txt - Algorithm: BFS Total nodes generated: 116536 Total time taken: 363 sec 914
+-----------
+File: Part3/L24/131345.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131345.txt - Algorithm: h1 Total nodes generated: 18070 Total time taken: 22 sec 698
+-----------
+File: Part3/L24/131345.txt - Algorithm: h2 Total nodes generated: 230 Total time taken: 0 sec 6
+-----------
+File: Part3/L24/131345.txt - Algorithm: h3 Total nodes generated: 26280 Total time taken: 48 sec 720
+-----------
+File: Part3/L24/131370.txt - Algorithm: BFS Total nodes generated: 139859 Total time taken: 492 sec 68
+-----------
+File: Part3/L24/131370.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131370.txt - Algorithm: h1 Total nodes generated: 23297 Total time taken: 37 sec 451
+-----------
+File: Part3/L24/131370.txt - Algorithm: h2 Total nodes generated: 625 Total time taken: 0 sec 35
+-----------
+File: Part3/L24/131370.txt - Algorithm: h3 Total nodes generated: 33292 Total time taken: 79 sec 337
+-----------
+File: Part3/L24/131374.txt - Algorithm: BFS Total nodes generated: 139444 Total time taken: 478 sec 114
+-----------
+File: Part3/L24/131374.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131374.txt - Algorithm: h1 Total nodes generated: 19322 Total time taken: 26 sec 40
+-----------
+File: Part3/L24/131374.txt - Algorithm: h2 Total nodes generated: 606 Total time taken: 0 sec 34
+-----------
+File: Part3/L24/131374.txt - Algorithm: h3 Total nodes generated: 27797 Total time taken: 54 sec 565
+-----------
+File: Part3/L24/131378.txt - Algorithm: BFS Total nodes generated: 117563 Total time taken: 377 sec 973
+-----------
+File: Part3/L24/131378.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131378.txt - Algorithm: h1 Total nodes generated: 20417 Total time taken: 28 sec 209
+-----------
+File: Part3/L24/131378.txt - Algorithm: h2 Total nodes generated: 1800 Total time taken: 0 sec 236
+-----------
+File: Part3/L24/131378.txt - Algorithm: h3 Total nodes generated: 28935 Total time taken: 60 sec 706
+-----------
+File: Part3/L24/131394.txt - Algorithm: BFS Total nodes generated: 116877 Total time taken: 360 sec 8
+-----------
+File: Part3/L24/131394.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131394.txt - Algorithm: h1 Total nodes generated: 21275 Total time taken: 30 sec 682
+-----------
+File: Part3/L24/131394.txt - Algorithm: h2 Total nodes generated: 2473 Total time taken: 0 sec 441
+-----------
+File: Part3/L24/131394.txt - Algorithm: h3 Total nodes generated: 29094 Total time taken: 58 sec 541
+-----------
+File: Part3/L24/131400.txt - Algorithm: BFS Total nodes generated: 128105 Total time taken: 439 sec 963
+-----------
+File: Part3/L24/131400.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131400.txt - Algorithm: h1 Total nodes generated: 20150 Total time taken: 27 sec 739
+-----------
+File: Part3/L24/131400.txt - Algorithm: h2 Total nodes generated: 1398 Total time taken: 0 sec 145
+-----------
+File: Part3/L24/131400.txt - Algorithm: h3 Total nodes generated: 27906 Total time taken: 55 sec 857
+-----------
+File: Part3/L24/131406.txt - Algorithm: BFS Total nodes generated: 118023 Total time taken: 371 sec 521
+-----------
+File: Part3/L24/131406.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131406.txt - Algorithm: h1 Total nodes generated: 18890 Total time taken: 24 sec 931
+-----------
+File: Part3/L24/131406.txt - Algorithm: h2 Total nodes generated: 1704 Total time taken: 0 sec 222
+-----------
+File: Part3/L24/131406.txt - Algorithm: h3 Total nodes generated: 27029 Total time taken: 53 sec 990
+-----------
+File: Part3/L24/131425.txt - Algorithm: BFS Total nodes generated: 137777 Total time taken: 484 sec 898
+-----------
+File: Part3/L24/131425.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131425.txt - Algorithm: h1 Total nodes generated: 19621 Total time taken: 25 sec 980
+-----------
+File: Part3/L24/131425.txt - Algorithm: h2 Total nodes generated: 1777 Total time taken: 0 sec 230
+-----------
+File: Part3/L24/131425.txt - Algorithm: h3 Total nodes generated: 27977 Total time taken: 55 sec 162
+-----------
+File: Part3/L24/131449.txt - Algorithm: BFS Total nodes generated: 122866 Total time taken: 423 sec 570
+-----------
+File: Part3/L24/131449.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131449.txt - Algorithm: h1 Total nodes generated: 20180 Total time taken: 28 sec 18
+-----------
+File: Part3/L24/131449.txt - Algorithm: h2 Total nodes generated: 1318 Total time taken: 0 sec 131
+-----------
+File: Part3/L24/131449.txt - Algorithm: h3 Total nodes generated: 28406 Total time taken: 57 sec 149
+-----------
+File: Part3/L24/131455.txt - Algorithm: BFS Total nodes generated: 139469 Total time taken: 501 sec 895
+-----------
+File: Part3/L24/131455.txt - Algorithm: IDS Total nodes generated:<<??>> Total time taken: >15 min
+-----------
+File: Part3/L24/131455.txt - Algorithm: h1 Total nodes generated: 20848 Total time taken: 30 sec 477
+-----------
+File: Part3/L24/131455.txt - Algorithm: h2 Total nodes generated: 1673 Total time taken: 0 sec 207
+-----------
+File: Part3/L24/131455.txt - Algorithm: h3 Total nodes generated: 28560 Total time taken: 60 sec 79
+-----------

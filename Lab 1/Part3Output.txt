@@ -1,0 +1,33 @@
+      |             BFS                  |             IDS                  |           A*:h1                  |            A*:h2                |          A*:h3                   |
+Depth |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | Avg Runtime | Avg # nodes explr' | Avg Runtime | Avg # nodes explr' | Avg Runtime | Avg # nodes explr' | Avg Runtime | Avg # nodes explr' | Avg Runtime | Avg # nodes explr'|
+      | micro sec   |                    |   micro sec |                    |   micro sec |                    |   micro sec |                    |   micro sec |                   |
+------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  8   |   2.65      |        232.4       |    12.45    |      5879.0        |      0      |       27.45        |      0.0    |      19.0          |    0        |       30.15       |
+------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  15  |  1747.1     |     6813.7         |  20741.75   |    9602600.35      |    19.75    |       471.05       |    2.55     |       120.85       |     52.7    |      659.3        |
+------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  24  |  423130.8   |      122756.1      |    >15min   |       ?????        |    26305.5  |      18980.85      |     146.3   |        1222.1      |   55560.95  |      26850.75     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Observations:
+- BFS:
+    - The breath first search is able to the optimal paths for all the given puzzles.
+    However, each time the levels increased from 8 to 15 to 24 the time increased drastically as well
+    as the node visitation
+- IDS:
+    - The iterative deepening search is unable to find the optimal path if the level goes past 24.
+    - This algorithm is the worst one out of the 5 that I tested.
+    - Each time the algorithm runs it increases the depth by one, it is extremely inefficient
+- h1:
+    - The second best A* search algorithm. It has the misplaced tile heuristic
+    - performs really well for the level 8 puzzles since its runtime is faster than a microsecond
+- h2:
+    - The manhattan distance heuristic is the fastest algorithm out of the 5.
+    - The run times are at 0 microseconds, meaning that the algorithm finished in under a microsecond
+    - Has the smallest increase in run time and node amount between the different levels
+- h3:
+    - The third best A* search algorithm.
+    - Implements a heuristic were the successors of each index are checked, if the
+    successor is not correct [1,2], [2,3], [3,4] ... as well as the current value is not in the correct spot
+    that is added as one wrong tile

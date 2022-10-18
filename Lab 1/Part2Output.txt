@@ -1,0 +1,184 @@
+Part 2
+----------------------
+File: Part2/S1.txt -- Algorithm: BFS
+Total nodes generated: 118290
+Total time taken: 203 sec 544
+Path length: 24
+Path: ['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S1.txt -- Algorithm: IDS
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+-----------
+File: Part2/S1.txt -- Algorithm: h1
+Total nodes generated: 19436
+Total time taken: 400 sec 108
+Path length: 24
+Path: ['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S1.txt -- Algorithm: h2
+Total nodes generated: 2252
+Total time taken: 9 sec 311
+Path length: 24
+Path: ['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S1.txt -- Algorithm: h3
+Total nodes generated: 27626
+Total time taken: 35 sec 519
+Path length: 24
+Path: ['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+
+
+File: Part2/S2.txt -- Algorithm: BFS
+Total nodes generated: 41329
+Total time taken: 746 sec 579
+Path length: 20
+Path: ['UP', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S2.txt -- Algorithm: IDS
+Total nodes generated: 798617989
+Total time taken: 883 sec 388
+Path length: 20
+Path: ['UP', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S2.txt -- Algorithm: h1
+Total nodes generated: 3035
+Total time taken: 13 sec 906
+Path length: 20
+Path: ['UP', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S2.txt -- Algorithm: h2
+Total nodes generated: 114
+Total time taken: 0 sec 21
+Path length: 20
+Path: ['UP', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S2.txt -- Algorithm: h3
+Total nodes generated: 4755
+Total time taken: 1 sec 49
+Path length: 20
+Path: ['UP', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+
+
+-----------
+File: Part2/S3.txt -- Algorithm: BFS
+The inputted puzzle is not solvable:
+7 5 2
+6 3 1
+4 8 _
+-----------
+File: Part2/S3.txt -- Algorithm: IDS
+The inputted puzzle is not solvable:
+7 5 2
+6 3 1
+4 8 _
+-----------
+File: Part2/S3.txt -- Algorithm: h1
+The inputted puzzle is not solvable:
+7 5 2
+6 3 1
+4 8 _
+-----------
+File: Part2/S3.txt -- Algorithm: h2
+The inputted puzzle is not solvable:
+7 5 2
+6 3 1
+4 8 _
+-----------
+File: Part2/S3.txt -- Algorithm: h3
+The inputted puzzle is not solvable:
+7 5 2
+6 3 1
+4 8 _
+-----------
+
+
+-----------
+File: Part2/S4.txt -- Algorithm: BFS
+Total nodes generated: 181438
+Total time taken: 402 sec 794
+Path length: 31
+Path: ['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT']
+-----------
+File: Part2/S4.txt -- Algorithm: IDS
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+-----------
+File: Part2/S4.txt -- Algorithm: h1
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+-----------
+File: Part2/S4.txt -- Algorithm: h2
+Total nodes generated: 10817
+Total time taken: 135 sec 331
+Path length: 31
+Path: ['RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN']
+-----------
+File: Part2/S4.txt -- Algorithm: h3
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+-----------
+
+
+File: Part2/S5.txt -- Algorithm: BFS
+Total nodes generated: 102
+Total time taken: 0 sec 5
+Path length: 6
+Path: ['LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT']
+-----------
+File: Part2/S5.txt -- Algorithm: IDS
+Total nodes generated: 1244
+Total time taken: 0 sec 28
+Path length: 6
+Path: ['LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT']
+-----------
+File: Part2/S5.txt -- Algorithm: h1
+Total nodes generated: 20
+Total time taken: 0 sec 4
+Path length: 6
+Path: ['LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT']
+-----------
+File: Part2/S5.txt -- Algorithm: h2
+Total nodes generated: 15
+Total time taken: 0 sec 1
+Path length: 6
+Path: ['LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT']
+-----------
+File: Part2/S5.txt -- Algorithm: h3
+Total nodes generated: 20
+Total time taken: 0 sec 0
+Path length: 6
+Path: ['LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT']
+-----------
+
+
+
+
+File: Part3/L24/131248.txt -- Algorithm: IDS
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+-----------
+File: Part3/L24/131256.txt -- Algorithm: IDS
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+-----------
+File: Part3/L24/131248.txt -- Algorithm: IDS
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+-----------
